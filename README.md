@@ -12,7 +12,7 @@ Entretien disponible dans le fichier "Sujet_VillageGaulois"
 
 ## Contributeur : 
 
-MASSIT Clément
-COCHARD Antoine
-CAULLIREAU Dorian
-KOEBELE Célien
+ - MASSIT Clément
+ - COCHARD Antoine
+ - CAULLIREAU Dorian
+ - KOEBELE Célien
